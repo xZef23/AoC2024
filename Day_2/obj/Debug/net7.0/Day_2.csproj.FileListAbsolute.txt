@@ -1,0 +1,15 @@
+d:\MyDesktop\AoC\Day_2\bin\Debug\net7.0\Day_2.exe
+d:\MyDesktop\AoC\Day_2\bin\Debug\net7.0\Day_2.deps.json
+d:\MyDesktop\AoC\Day_2\bin\Debug\net7.0\Day_2.runtimeconfig.json
+d:\MyDesktop\AoC\Day_2\bin\Debug\net7.0\Day_2.dll
+d:\MyDesktop\AoC\Day_2\bin\Debug\net7.0\Day_2.pdb
+d:\MyDesktop\AoC\Day_2\obj\Debug\net7.0\Day_2.csproj.AssemblyReference.cache
+d:\MyDesktop\AoC\Day_2\obj\Debug\net7.0\Day_2.GeneratedMSBuildEditorConfig.editorconfig
+d:\MyDesktop\AoC\Day_2\obj\Debug\net7.0\Day_2.AssemblyInfoInputs.cache
+d:\MyDesktop\AoC\Day_2\obj\Debug\net7.0\Day_2.AssemblyInfo.cs
+d:\MyDesktop\AoC\Day_2\obj\Debug\net7.0\Day_2.csproj.CoreCompileInputs.cache
+d:\MyDesktop\AoC\Day_2\obj\Debug\net7.0\Day_2.dll
+d:\MyDesktop\AoC\Day_2\obj\Debug\net7.0\refint\Day_2.dll
+d:\MyDesktop\AoC\Day_2\obj\Debug\net7.0\Day_2.pdb
+d:\MyDesktop\AoC\Day_2\obj\Debug\net7.0\Day_2.genruntimeconfig.cache
+d:\MyDesktop\AoC\Day_2\obj\Debug\net7.0\ref\Day_2.dll

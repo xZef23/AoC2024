@@ -1,0 +1,15 @@
+d:\MyDesktop\AoC\Day_1\bin\Debug\net7.0\Day_1.exe
+d:\MyDesktop\AoC\Day_1\bin\Debug\net7.0\Day_1.deps.json
+d:\MyDesktop\AoC\Day_1\bin\Debug\net7.0\Day_1.runtimeconfig.json
+d:\MyDesktop\AoC\Day_1\bin\Debug\net7.0\Day_1.dll
+d:\MyDesktop\AoC\Day_1\bin\Debug\net7.0\Day_1.pdb
+d:\MyDesktop\AoC\Day_1\obj\Debug\net7.0\Day_1.csproj.AssemblyReference.cache
+d:\MyDesktop\AoC\Day_1\obj\Debug\net7.0\Day_1.GeneratedMSBuildEditorConfig.editorconfig
+d:\MyDesktop\AoC\Day_1\obj\Debug\net7.0\Day_1.AssemblyInfoInputs.cache
+d:\MyDesktop\AoC\Day_1\obj\Debug\net7.0\Day_1.AssemblyInfo.cs
+d:\MyDesktop\AoC\Day_1\obj\Debug\net7.0\Day_1.csproj.CoreCompileInputs.cache
+d:\MyDesktop\AoC\Day_1\obj\Debug\net7.0\Day_1.dll
+d:\MyDesktop\AoC\Day_1\obj\Debug\net7.0\refint\Day_1.dll
+d:\MyDesktop\AoC\Day_1\obj\Debug\net7.0\Day_1.pdb
+d:\MyDesktop\AoC\Day_1\obj\Debug\net7.0\Day_1.genruntimeconfig.cache
+d:\MyDesktop\AoC\Day_1\obj\Debug\net7.0\ref\Day_1.dll
